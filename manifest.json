@@ -1,0 +1,9 @@
+{
+  "name": "EZN App Screens",
+  "description": "Generates the EZN PWA screens (Login, Einsatzdetails, Sensordetails) as native, fully editable Penpot objects.",
+  "code": "plugin.js",
+  "permissions": [
+    "content:read",
+    "content:write"
+  ]
+}
